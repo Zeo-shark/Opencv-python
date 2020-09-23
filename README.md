@@ -1,5 +1,5 @@
 # Opencv-python
-Complete mini Computer Vision in  Python Projects
+Complete list of Opencv & dlib library projects
 includes
 - Drowsiness Detection and facial landmark detection
 - Human Intrusion detector and Tracker
